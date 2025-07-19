@@ -10,10 +10,6 @@ A simple realtime battery monitor for web browsers using the Battery Status API.
 - Charging status with icons
 - Responsive battery liquid animation
 
-## Demo
-
-![Battery Monitor](https://via.placeholder.com/400x200/000000/FFFFFF?text=Battery+Monitor+Demo)
-
 ## Installation
 
 ```bash
@@ -55,7 +51,7 @@ Shows charging status with animated icons when plugged in.
 | Chrome  | 38+     | ✅      |
 | Firefox | 43+     | ✅      |
 | Edge    | 79+     | ✅      |
-| Safari  | All     | ❌      |
+| Safari  | All     | ✅      |
 
 ## Dependencies
 
